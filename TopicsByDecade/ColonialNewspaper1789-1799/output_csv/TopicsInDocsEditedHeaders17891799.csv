@@ -1,4 +1,4 @@
-docId,filename,top topics, amount it appears, primary topics, primary appears, tertiary topics, tertiary appears, quaternary topics, quaternary appears, , , , , , , , , , , , , , , ,
+docId,filename,primary topics, primary appears, secondary topics, secondary appears, tertiary topics, tertiary appears, quaternary topics, quaternary appears
 1,null-source,15,0.429,11,0.143,1,0.143,13,0.071
 2,null-source,6,0.176,4,0.147,8,0.118,7,0.118
 3,null-source,7,0.167,4,0.167,2,0.125,15,0.083

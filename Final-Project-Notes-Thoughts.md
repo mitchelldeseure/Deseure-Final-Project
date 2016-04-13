@@ -21,3 +21,15 @@ I decided I would stick to 15 topics for each decade and compare each accordingl
 
 **Step 3:**
 Now that I have all my topics laid out and my data organized into decades I can start playing around with visualizations and seeing what I need to do to create some concrete evidence of my theories. First I'm going to play around with the original database file to see what conclusions I can draw from the larger file and then I will break down into smaller groups and be able to compare better. I found by making such a massive graph it just became confusing to understand and it had too much info in it, I am hoping that by decreasing the number of articles in each decade I'm able to come to better conclusions by decade.
+
+**Step 4:**
+I separated the id files out into decades and made each their own folders. I then proceeded to edit the .cvs files to only include the first four primary topics.
+
+I then decided that four made the graphs seemed more cluttered than they already were and made the decision to just trace the top three topics that showed up in each article. By creating Alluvial Diagrams I was able to see the path of topics and how each articles topics interrelated to each other. I was able to look at topics that commonly come together and compare and analyze to see what that could mean for my research.
+
+**Step 5:**
+I then made two cluster force graphs for each decade, one that showed the clusters of primary topics and how much they appeared and then another that showed just the secondary topics. By comparing my cluster force graphs to my alluvial diagrams I'm able to see patterns in the media without actually reading any of the articles. As that would take a lifeimte!
+*Note:* I did not make cluster force graphs for one decade which only had two files committed to the decade; I found it difficult to analyze this decade because I really had no data from it in the database files I pulled. This is a fault in my research as there is essentially a hole in the middle of my project.
+
+**Step 6:**
+Now that I have all the text edited I can actually put it all back into a bigger file and create graphs for all the data combined and have some guidelines to compare my research to. We can trace each decade and see how it compares to the total 60 year average from 1789 - 1849. This is useful because I will be able to draw conclusions based on a common measure.
