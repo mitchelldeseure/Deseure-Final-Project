@@ -16,3 +16,7 @@ The first thing I decided to do was organize a bunch of .cvs files in order to b
 Next I decided it would be wise to do a couple preliminary searches for topics. By doing this I can get a grasp on what I may be able to expect in the results per decade and I can make an inital hypothesis on what my results are going to be long term.
 
 To ensure I had the right number of topics for my data I created a set with 25, 15, and 10 topics and compared the topics to specificality. 
+
+I decided I would stick to 15 topics for each decade and compare each accordingly. A lot can be learned just by examining the topics given. I'll analyze the core data of the topics and then add visualizations to help understanding.
+
+**Step 3:**
