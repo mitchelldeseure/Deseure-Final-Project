@@ -20,3 +20,4 @@ To ensure I had the right number of topics for my data I created a set with 25, 
 I decided I would stick to 15 topics for each decade and compare each accordingly. A lot can be learned just by examining the topics given. I'll analyze the core data of the topics and then add visualizations to help understanding.
 
 **Step 3:**
+Now that I have all my topics laid out and my data organized into decades I can start playing around with visualizations and seeing what I need to do to create some concrete evidence of my theories. First I'm going to play around with the original database file to see what conclusions I can draw from the larger file and then I will break down into smaller groups and be able to compare better. I found by making such a massive graph it just became confusing to understand and it had too much info in it, I am hoping that by decreasing the number of articles in each decade I'm able to come to better conclusions by decade.
